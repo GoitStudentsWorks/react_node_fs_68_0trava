@@ -89,8 +89,8 @@ export const AppRoutes = () => {
           }
         />
       </Route>
-      <Route path="/project-CodeMasters02" component={chackMainLogin()} />
-      <Route path={ROUTES.NotFound} element={<NotFound />} />
+{/*       <Route path="/project-CodeMasters02" component={chackMainLogin()} /> */}
+{/*       <Route path={ROUTES.NotFound} element={<NotFound />} /> */}
     </Routes>
   );
 };
