@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_68_0trava/static/css/main.9d60f313.css",
-    "main.js": "/react_node_fs_68_0trava/static/js/main.0ad1d5c9.js",
+    "main.js": "/react_node_fs_68_0trava/static/js/main.5ac03a4a.js",
     "static/media/MainPage_img_1_tablet_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_1_tablet_2x.af1d4f58bd47b9a5840f.png",
     "static/media/MainPage_img_1_desktop_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_1_desktop_2x.fa1578686c34d420578a.png",
     "static/media/MainPage_img_2_tablet_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_2_tablet_2x.e88c9624f075cf568e08.png",
@@ -20,10 +20,10 @@
     "index.html": "/react_node_fs_68_0trava/index.html",
     "static/media/log-in-01.svg": "/react_node_fs_68_0trava/static/media/log-in-01.f5859fe35421bf27c20ed178401b8bd6.svg",
     "main.9d60f313.css.map": "/react_node_fs_68_0trava/static/css/main.9d60f313.css.map",
-    "main.0ad1d5c9.js.map": "/react_node_fs_68_0trava/static/js/main.0ad1d5c9.js.map"
+    "main.5ac03a4a.js.map": "/react_node_fs_68_0trava/static/js/main.5ac03a4a.js.map"
   },
   "entrypoints": [
     "static/css/main.9d60f313.css",
-    "static/js/main.0ad1d5c9.js"
+    "static/js/main.5ac03a4a.js"
   ]
 }
