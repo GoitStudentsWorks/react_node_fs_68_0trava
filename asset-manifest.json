@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_node_fs_68_0trava/static/css/main.9d60f313.css",
+    "main.js": "/react_node_fs_68_0trava/static/js/main.0ad1d5c9.js",
+    "static/media/MainPage_img_1_tablet_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_1_tablet_2x.af1d4f58bd47b9a5840f.png",
+    "static/media/MainPage_img_1_desktop_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_1_desktop_2x.fa1578686c34d420578a.png",
+    "static/media/MainPage_img_2_tablet_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_2_tablet_2x.e88c9624f075cf568e08.png",
+    "static/media/MainPage_img_2_desktop_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_2_desktop_2x.69b92d62bde3323fa84e.png",
+    "static/media/MainPage_img_1_mob_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_1_mob_2x.7d234baa48af542fd485.png",
+    "static/media/MainPage_img_2_mob_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_2_mob_2x.d7953b02ca723a6fd435.png",
+    "static/media/MainPage_img_3_tablet_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_3_tablet_2x.6825593fd9d4768d7bf7.png",
+    "static/media/MainPage_img_3_desktop_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_3_desktop_2x.8590a0bd15e87b1df53c.png",
+    "static/media/RegisterPage_duck_1x.png": "/react_node_fs_68_0trava/static/media/RegisterPage_duck_1x.02f1aeb546ef16bdd9f3.png",
+    "static/media/LoginPage__rocket_1x.png": "/react_node_fs_68_0trava/static/media/LoginPage__rocket_1x.de5ea9656040ad9dbc2d.png",
+    "static/media/MainPage_img_3_mob_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_img_3_mob_2x.2837cb55bb0b979d7651.png",
+    "static/media/MainPage_duck_2x.png": "/react_node_fs_68_0trava/static/media/MainPage_duck_2x.3c0470b19aa18aaef0d8.png",
+    "static/media/error_rocket.png": "/react_node_fs_68_0trava/static/media/error_rocket.c2f76f48444a8731dda0.png",
+    "static/media/Review_1.png": "/react_node_fs_68_0trava/static/media/Review_1.20d726d6551cb8194847.png",
+    "static/media/sprite.svg": "/react_node_fs_68_0trava/static/media/sprite.5872019dcfa18bca9e74a8b221072101.svg",
+    "index.html": "/react_node_fs_68_0trava/index.html",
+    "static/media/log-in-01.svg": "/react_node_fs_68_0trava/static/media/log-in-01.f5859fe35421bf27c20ed178401b8bd6.svg",
+    "main.9d60f313.css.map": "/react_node_fs_68_0trava/static/css/main.9d60f313.css.map",
+    "main.0ad1d5c9.js.map": "/react_node_fs_68_0trava/static/js/main.0ad1d5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d60f313.css",
+    "static/js/main.0ad1d5c9.js"
+  ]
+}
